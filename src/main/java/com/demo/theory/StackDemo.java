@@ -14,8 +14,8 @@ public class StackDemo {
         System.out.println("length:" + recur("test").length() + "   depth:" + countter);
 
         // oom  不要轻易尝试，会死机^_^
-        StackDemo oom = new StackDemo();
-        oom.stackLeakByThread();
+//        StackDemo oom = new StackDemo();
+//        oom.stackLeakByThread();
     }
 
 
