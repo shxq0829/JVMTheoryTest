@@ -1,0 +1,11 @@
+/.idea
+*/*target/***
+target/***
+*/*.iml
+*/*.db
+/*.db
+api/target/
+deploy/target/
+impl/target/
+output/
+/*.iml
